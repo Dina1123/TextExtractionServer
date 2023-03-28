@@ -1,5 +1,5 @@
 <?php
-$dsn = "mysql:host=localhost;dbname=text_extract2";
+$dsn = "mysql:host=localhost;dbname=extractiondb";
 $user = "root";
 $pass = "12345678";
 $option = array(
